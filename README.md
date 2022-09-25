@@ -181,7 +181,7 @@ CTRL + SHIFT + P    - Find matching bracket<br>
 Navigate -> Open declaration (F3)<br>
 Navigate -> Open Type Hiearchy (F4)<br>
 
-Navigate -> Open Type (CTRL + SHIFT + T<br>)
+Navigate -> Open Type (CTRL + SHIFT + T)<br>
 Navigate -> Open Type In Hiearchy (CTRL + SHIFT + H)<br>
 
 Navigate -> Open Resource (CTRL + SHIFT + R)<br>
